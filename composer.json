@@ -1,0 +1,13 @@
+{
+    "name": "aghayevi/passportmrz",
+    "description": "A Passport Mrz Validation package for Laravel",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Imran Aghayev",
+            "email": "imran.aghayev@hotmail.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
